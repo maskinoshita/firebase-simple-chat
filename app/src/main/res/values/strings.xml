@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">simplechat</string>
+    <string name="inputHint">メッセージを入力してください</string>
+    <string name="send_message">send message</string>
+</resources>
